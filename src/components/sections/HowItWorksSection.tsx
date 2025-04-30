@@ -56,7 +56,7 @@ const HowItWorksSection = () => {
   });
 
   return (
-    <section id="how-it-works" className="section bg-cover bg-fixed" style={{backgroundImage:"url(public/hiw.png)"}}>
+    <section id="how-it-works" className="section bg-cover bg-fixed" style={{backgroundImage:"url('/hiw.png')"}}>
       <div className="container">
         <motion.div
           ref={ref}

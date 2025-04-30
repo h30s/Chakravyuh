@@ -5,7 +5,7 @@ import ParticleBackground from '../ui/ParticleBackground';
 
 const HeroSection = () => {
   return (
-    <section id="home" className="relative min-h-screen flex items-center bg-cover " style={{backgroundImage:"url(public/hero.png)"}}>
+    <section id="home" className="relative min-h-screen flex items-center bg-cover " style={{backgroundImage:"url('/hero.png')"}}>
       <ParticleBackground />
       
       <div className="container relative z-10">
