@@ -65,10 +65,10 @@ const Header = () => {
 
         {/* Contact Button - Desktop */}
         <a
-          href="#contact"
+          href="https://chakravyuh-army.lovable.app/"
           className="hidden md:inline-flex btn btn-accent"
         >
-          Request Demo
+          Admin Login
         </a>
 
         {/* Mobile Menu Button */}
