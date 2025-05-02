@@ -65,7 +65,7 @@ const Header = () => {
 
         {/* Contact Button - Desktop */}
         <a
-          href="https://chakravyuh-army.lovable.app/"
+          href="https://chakravyuh-army.vercel.app/"
           className="hidden md:inline-flex btn btn-accent"
         >
           Admin Login
